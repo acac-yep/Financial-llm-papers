@@ -1,7 +1,7 @@
 # Financial LLM Agents
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Stars](https://img.shields.io/github/stars/acac-yep/awesome-financial-llm-agents?color=yellow)](https://github.com/acac-yep/awesome-financial-llm-agents)
+[![Stars](https://img.shields.io/github/stars/acac-yep/Financial-llm-papers?color=yellow)](https://github.com/acac-yep/Financial-llm-papers)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
 [English](#english) | [中文](#中文)
